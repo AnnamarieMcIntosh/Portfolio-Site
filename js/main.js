@@ -3,8 +3,7 @@ $(document).ready(function() {
 
   'use strict';
 
-  // ========================================================================= //
-  //  //SMOOTH SCROLL
+  // ========================================================================= //x
   // ========================================================================= //
 
 
@@ -79,7 +78,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
+      strings: ["Annamarie McIntosh", "a writer.", "a reader.", "a seamstress.", "a creator"],
       typeSpeed: 100,
       loop: true,
     });
